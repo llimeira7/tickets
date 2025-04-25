@@ -5,10 +5,10 @@ Aplicativo móvel simples para visualização de tickets de eventos.
 ## 📱 Telas do Aplicativo
 
 ### 1. Lista de eventos
-![Tela 1](./assets/tela1.jpg)
+![Tela 1](./assets/tela2.jpg)
 
 ### 2. Detalhe de um evento
-![Tela 2](./assets/tela2.jpg)
+![Tela 2](./assets/tela1.jpg)
 
 
 ## ⚙ Requisitos para rodar o projeto
