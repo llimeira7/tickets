@@ -5,12 +5,11 @@ Aplicativo móvel simples para visualização de tickets de eventos.
 ## 📱 Telas do Aplicativo
 
 ### 1. Lista de eventos
-![Tela 1](./assets/tela1.png)
+![Tela 1](./assets/tela1.jpg)
 
 ### 2. Detalhe de um evento
-![Tela 2](./assets/tela2.png)
+![Tela 2](./assets/tela2.jpg)
 
-> Obs: você pode usar imagens simuladas feitas com print do app rodando no seu celular via Expo Go ou colocar imagens temporárias.
 
 ## ⚙ Requisitos para rodar o projeto
 
